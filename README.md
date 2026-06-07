@@ -40,11 +40,11 @@ I love blending functionality with clean design, ensuring that what happens unde
 
 ### 🎮 Gamify
 * **Role:** Co-Project Leader
-* **Tech:** React, JSX, Custom CSS, Bootstrap
+* **Tech:** React, JSX, Custom CSS, Bootstrap, Express.js, MySQL
 * **Description:** A modern e-commerce platform for digital video game license keys. Focused heavily on a seamless UI/UX, responsive layout, and brand consistency. As a Co-Project Leader, I coordinated task planning and oversaw development milestones.
 
 ### 🌐 Freelance Web Projects
-* **Tech:** HTML5, CSS3, JavaScript, SEO best practices
+* **Tech:** HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, SEO best practices
 * **Description:** Developed tailor-made showcase websites for local businesses (restaurants, gyms, bars) from scratch. Managed the full lifecycle from requirements gathering to deployment, with a strong focus on web performance and online visibility.
 
 ---
