@@ -38,8 +38,8 @@ I love blending functionality with clean design, ensuring that what happens unde
 ## 🚀 Featured Projects
 
 ### 🎮 Gamify
-* **Role:** Project Leader
-* **Tech:** React, JSX, Custom CSS
+* **Role:** Co-Project Leader
+* **Tech:** React, JSX, Custom CSS, Bootstrap
 * **Description:** A modern e-commerce platform for digital video game license keys. Focused heavily on a seamless UI/UX, responsive layout, and brand consistency. As Project Leader, I coordinated task planning and oversaw development milestones.
 
 ### 🌐 Freelance Web Projects
