@@ -4,9 +4,9 @@ I am a Junior Web Developer with a strong foundation in Full-Stack development, 
 
 I love blending functionality with clean design, ensuring that what happens under the hood matches a seamless and beautiful user experience.
 
-📍 Based in L'Aquila, Italy
-💼 Open to Junior Web Developer roles & collaborations
-🧠 Constantly exploring Web Performance Optimization, UI/UX design, and AI tools
+📍 Based in L'Aquila, Italy<br>
+💼 Open to Junior Web Developer roles & collaborations<br>
+🧠 Constantly exploring Web Performance Optimization, UI/UX design, and AI tools<br>
 
 ---
 
