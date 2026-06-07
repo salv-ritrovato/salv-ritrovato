@@ -1,12 +1,12 @@
 # Hi there, I'm Salvatore! 👋
 
-I am a **Junior Web Developer** with a strong foundation in Full-Stack development and a decade of experience in tech, hardware, and IT troubleshooting. After years of solving complex hardware and software problems, I've channeled my passion for technology and AI into building modern, responsive, and efficient web applications. 
+I am a Junior Web Developer with a strong foundation in Full-Stack development, a keen eye for design, and a decade of experience in tech, hardware, and IT troubleshooting. After years of solving complex hardware and software problems, I've channeled my passion for technology, aesthetics, and AI into building modern, responsive, and visually engaging web applications.
 
-As a former **Project Leader** during my intensive training at Boolean, I love collaborating, organizing tasks, and bringing clean, functional code to life.
+I love blending functionality with clean design, ensuring that what happens under the hood matches a seamless and beautiful user experience.
 
-- 📍 Based in L'Aquila, Italy
-- 💼 Open to Junior Web Developer roles & collaborations
-- 🧠 Constantly exploring Web Performance Optimization and AI tools
+📍 Based in L'Aquila, Italy
+💼 Open to Junior Web Developer roles & collaborations
+🧠 Constantly exploring Web Performance Optimization, UI/UX design, and AI tools
 
 ---
 
@@ -29,6 +29,9 @@ As a former **Project Leader** during my intensive training at Boolean, I love c
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### Currently Learning 🧠
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
