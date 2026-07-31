@@ -1,6 +1,6 @@
 # Hi there, I'm Salvatore! 👋
 
-I am a Junior Web Developer with a strong foundation in Full-Stack development, a keen eye for design, and a decade of experience in tech, hardware, and IT troubleshooting. After years of solving complex hardware and software problems, I've channeled my passion for technology, aesthetics, and AI into building modern, responsive, and visually engaging web applications.
+I am a Web Developer with a strong foundation in Full-Stack development, a keen eye for design, and a decade of experience in tech, hardware, and IT troubleshooting. After years of solving complex hardware and software problems, I've channeled my passion for technology, aesthetics, and AI into building modern, responsive, and visually engaging web applications.
 
 I love blending functionality with clean design, ensuring that what happens under the hood matches a seamless and beautiful user experience.
 
