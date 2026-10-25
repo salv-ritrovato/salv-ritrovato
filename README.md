@@ -12,7 +12,7 @@ My approach is simple: **turn complex ideas into functional, intuitive, and thou
 📍 Based in Italy · Working remotely  
 💼 Open to professional opportunities and collaborations  
 🚀 Co-Founder of [inLumine Studio](https://www.inlumine.it)  
-🌐 [Personal Portfolio]([https://igobyheavxn.vercel.app/])
+🌐 [Personal Portfolio](https://igobyheavxn.vercel.app/)
 
 ---
 
