@@ -1,62 +1,107 @@
-# Hi there, I'm Salvatore! 👋
 
-I am a Web Developer with a strong foundation in Full-Stack development, a keen eye for design, and a decade of experience in tech, hardware, and IT troubleshooting. After years of solving complex hardware and software problems, I've channeled my passion for technology, aesthetics, and AI into building modern, responsive, and visually engaging web applications.
+# Hey, I'm Salvatore! 👋
 
-I love blending functionality with clean design, ensuring that what happens under the hood matches a seamless and beautiful user experience.
+### AI-Assisted Software Developer · Co-Founder @ inLumine Studio
 
-📍 Based in L'Aquila, Italy<br>
-💼 Open to Junior Web Developer roles & collaborations<br>
-🧠 Constantly exploring Web Performance Optimization, UI/UX design, and AI tools<br>
+I design and build modern web applications, digital products, and custom software solutions using **AI-assisted development workflows**.
+
+With over 10 years of experience in IT and technical troubleshooting, I combine a strong problem-solving mindset with modern technologies, AI-powered tools, and a particular focus on **UI/UX, performance, and product quality**.
+
+My approach is simple: **turn complex ideas into functional, intuitive, and thoughtfully designed digital experiences.**
+
+📍 Based in Italy · Working remotely  
+💼 Open to professional opportunities and collaborations  
+🚀 Co-Founder of [inLumine Studio](https://www.inlumine.it)  
+🌐 [Personal Portfolio](https://salvatoreritrovato.vercel.app)
+
+---
+
+## 🚀 What I Do
+
+- **AI-Assisted Development** — Leveraging AI-powered workflows to accelerate development, prototyping, debugging, and iteration.
+- **Web & Software Development** — Building responsive websites, full-stack applications, and custom digital solutions.
+- **UI/UX & Product Design** — Creating clean, accessible, and intuitive interfaces with attention to detail.
+- **Technical Problem Solving** — Applying a decade of IT experience to troubleshooting, optimization, and technical challenges.
+- **End-to-End Delivery** — From initial concept and requirements to testing, deployment, and continuous improvement.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Front-End
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Frontend
+React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS
 
-### Back-End & Databases
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend & Databases
+Node.js · Express.js · MySQL · Supabase · REST APIs
 
-### Workflow & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+### AI & Development Tools
+Claude Code · Cursor · Git · GitHub · VS Code
 
-### Currently Learning 🧠
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Deployment & Infrastructure
+Vercel · Supabase · npm
+
+### Design & Experience
+Responsive Design · UI/UX · Web Performance · SEO Fundamentals
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Selected Work
 
-### 🎮 Gamify
-* **Role:** Co-Project Leader
-* **Tech:** React, JSX, Custom CSS, Bootstrap, Express.js, MySQL
-* **Description:** A modern e-commerce platform for digital video game license keys. Focused heavily on a seamless UI/UX, responsive layout, and brand consistency. As a Co-Project Leader, I coordinated task planning and oversaw development milestones.
+### ✨ inLumine Studio — Digital Design & Development
 
-### 🌐 Freelance Web Projects
-* **Tech:** HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, SEO best practices
-* **Description:** Developed tailor-made showcase websites for local businesses (restaurants, gyms, bars) from scratch. Managed the full lifecycle from requirements gathering to deployment, with a strong focus on web performance and online visibility.
+**Role:** Co-Founder · AI-Assisted Software Developer
+
+A digital studio focused on designing and developing custom websites, e-commerce platforms, and web applications.
+
+We combine modern technologies, AI-assisted workflows, and thoughtful design to deliver digital solutions tailored to real business needs.
+
+🔗 [Explore inLumine Studio](https://www.inlumine.it)  
+🔗 [View Our Projects](https://www.inlumine.it/progetti)
+
+### 🏋️ Afterglow — Coaching & Fitness Management
+
+**Type:** Full-Stack Web Application · Functional Demo
+
+A management platform designed for personal trainers and fitness professionals, focused on simplifying client management and everyday workflows.
+
+Built with an emphasis on usability, scalable architecture, and modern interface design.
+
+### 🌐 Client Projects — Websites & Digital Experiences
+
+A collection of websites and digital solutions developed for businesses across different industries, including fitness, hospitality, retail, and professional services.
+
+Projects cover the complete development lifecycle, from initial planning and UX/UI design to implementation and deployment.
+
+🔗 [Explore Selected Projects](https://www.inlumine.it/progetti)
 
 ---
 
-## 📈 My IT Roots (2015 - 2025)
-Before fully diving into web development, I spent a decade as an **IT Technician**. This experience gifted me with:
-* 🛠️ Deep knowledge of hardware diagnostics, assembly, and networking.
-* 🧠 An analytical, battle-tested approach to **troubleshooting** and **problem-solving**.
-* ⚡ An obsession with optimization—whether it's a desktop PC or website performance.
+## 🧠 My Background
+
+Before moving into software development, I spent over a decade working as an **IT Technician (2015–2025)**.
+
+That experience shaped the way I approach technology today:
+
+- **Analytical thinking** and structured problem-solving.
+- Hardware, software, and networking troubleshooting.
+- Technical diagnostics and performance optimization.
+- Independent learning and adapting to new technologies.
+
+Today, I apply that foundation to building digital products with modern development tools and AI-assisted workflows.
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salv-ritrovato/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salv.ritrovato@gmail.com)
+## 📫 Let's Connect
+
+I'm interested in collaborating with development teams, digital agencies, startups, and businesses looking to build meaningful digital products.
+
+I'm available for opportunities both as an **independent AI-Assisted Developer** and through **inLumine Studio**.
+
+🌐 [Personal Portfolio](https://igobyheavxn.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/salv-ritrovato/)  
+✨ [inLumine Studio](https://www.inlumine.it)  
+📧 [Email](mailto:salv.ritrovato@gmail.com)
+
+---
+
+*Building better digital experiences through technology, design, and AI-assisted development.*
